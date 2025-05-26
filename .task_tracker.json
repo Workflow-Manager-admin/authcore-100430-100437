@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for AuthCore', 'description': 'Primary container for AuthCore implementation: authVault is a monolithic backend service offering comprehensive authentication and user management APIs for web and mobile apps. It centralizes all core auth features—user registration, login, password reset, profile management, and role-based access control—within a single deployable backend unit, simplifying deployment and maintenance.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
